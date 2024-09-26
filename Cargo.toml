@@ -1,0 +1,9 @@
+[package]
+name = "onesies"
+version = "0.1.0"
+edition = "2021"
+description ="Count the number of bits set to 1 in an integer"
+author = "bumbuna<me@bumbuna.com>"
+licence = "MIT"
+
+[dependencies]
