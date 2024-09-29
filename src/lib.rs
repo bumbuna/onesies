@@ -1,4 +1,4 @@
-mod onesies {
+pub mod onesies {
     pub fn count(i: u32) -> u32 {
         let mut a = i;
         let mut count = 0;
